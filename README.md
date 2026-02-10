@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="./assets/banner.png" alt="Claire Chan Banner" width="100%" />
-
-<br/>
-
-<img src="./assets/logo.png" alt="Claire Chan Logo" width="120" />
-
 <h1>Claire Chan</h1>
 
 <p>
