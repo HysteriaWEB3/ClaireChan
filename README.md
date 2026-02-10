@@ -1,11 +1,9 @@
-<h1>Claire Chan</h1>
+<h1>ClaireChan.io</h1>
 
 <p>
 A real-time AI companion for DeFi builders.<br/>
 AMMs, production code, live exchanges, and autonomous tooling.
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=800&lines=Claire+Chan+—+AI+Companion+for+DeFi;Live+AMM+Design+%7C+Code+Generation+%7C+DEX+Infrastructure;Terminal-Grade+UI+%7C+Real-Time+Agents+%7C+Solana" />
 
 <br/>
 
