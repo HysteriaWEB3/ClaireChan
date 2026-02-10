@@ -40,7 +40,6 @@ This is infrastructure.
 
 ## Core Philosophy
 
-```txt
 • no fake metrics
 • no placeholder systems
 • no dark patterns
@@ -283,5 +282,3 @@ Hysteria
 Founder & Frontend Developer
 
 Claire Chan is built with an obsessive focus on interface quality, real systems, and long-term infrastructure.
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f0f&height=2&section=footer" /> </div> ```
