@@ -44,145 +44,6 @@ This is infrastructure.
 • no placeholder systems
 • no dark patterns
 • no UI noise
-Everything in Claire Chan is designed to be:
-
-Honest
-
-Composable
-
-Real-time
-
-Production-oriented
-
-The Claire Desktop Model
-
-Claire is represented by a desktop-grade Live2D model, rendered directly in the UI.
-
-Features
-
-Full-body Live2D model
-
-Smooth mouse tracking (head + body)
-
-Physics-enabled motion (hair, clothing)
-
-Subtle idle breathing and sway
-
-Constrained rendering inside terminal-style frames
-
-Non-intrusive (no pointer capture)
-
-The model is not cosmetic — it is a persistent interface presence tied to system state, responses, and interaction context.
-
-Companion Capabilities
-
-Claire is designed as a multi-tool AI environment, not just a chat box.
-
-Chat
-
-Real-time AI responses
-
-Context-aware DeFi reasoning
-
-Code explanations and planning
-
-Build Code
-
-Next.js components
-
-Solana scripts
-
-Frontend and infra scaffolding
-
-File-path aware outputs
-
-AMM Lab
-
-Fee strategy reasoning
-
-Liquidity curve discussion
-
-Protocol design drafts
-
-Risk/edge analysis
-
-Terminal
-
-Command-style interactions
-
-Build steps
-
-Tooling outputs
-
-Builder (Mini IDE)
-
-Monaco-based editor
-
-In-memory workspace
-
-AI-assisted code generation
-
-Exportable outputs
-
-Voice Interaction
-
-Claire supports real-time voice output using ElevenLabs TTS.
-
-Server-side synthesis
-
-Instant playback after responses
-
-User-controlled toggle and volume
-
-Designed for low-latency interaction
-
-Voice is treated as a first-class interface, not an add-on.
-
-Image Generation
-
-Claire includes image generation using xAI (Grok):
-
-Prompt-driven generation
-
-Server-side API calls
-
-No client-side key exposure
-
-Integrated directly into the Companion tools
-
-Used for:
-
-Concept art
-
-UI ideas
-
-Visual references
-
-Token imagery
-
-DEX Hub
-
-The /dex section functions as a live market hub, inspired by tools like DexScreener.
-
-Features
-
-Real-time market discovery (public APIs)
-
-Token pages with charts
-
-Community token listings
-
-User-submitted metadata:
-
-Token image
-
-Banner
-
-Website
-
-Twitter
-
-Telegram
 
 Auth-gated posting and management
 
@@ -272,6 +133,27 @@ Project Status
 STATUS: ACTIVE (being pushed as this repo is live.)
 MODE: V2 BETA
 DATA: LIVE (NO MOCK DATA)
+--------------------------------------------------------
+
+The Claire Desktop Model
+
+Claire is represented by a desktop-grade Live2D model, rendered directly in the UI.
+
+Features
+
+Full-body Live2D model
+
+Smooth mouse tracking (head + body)
+
+Physics-enabled motion (hair, clothing)
+
+Subtle idle breathing and sway
+
+Constrained rendering inside terminal-style frames
+
+Non-intrusive (no pointer capture)
+
+The model is not cosmetic — it is a persistent interface presence tied to system state, responses, and interaction context.
 
 Claire Chan is under active development.
 Features are added incrementally with stability as the top priority.
@@ -282,3 +164,27 @@ Hysteria
 Founder & Frontend Developer
 
 Claire Chan is built with an obsessive focus on interface quality, real systems, and long-term infrastructure.
+
+$CLAIRE Token
+
+Claire Chan is powered by the $CLAIRE token on Solana.
+
+Contract Address
+
+Fg1N1w9kyMzoyjiMRaudqWCPgPtAL3iYtPVPjdUSpump
+
+
+Live Chart
+
+DexScreener:
+https://dexscreener.com/solana/Fg1N1w9kyMzoyjiMRaudqWCPgPtAL3iYtPVPjdUSpump
+
+The token is designed to integrate with:
+
+Platform access
+
+Feature gating
+
+Ecosystem incentives
+
+Future protocol-level functionality
